@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Unity, C# and much more!!
 - 💞️ I’m looking to collaborate on a videogame company.
 - 📫 How to reach me
-- @SoySantixGG in youtube
-- @SantixDev on Instagram
+- @S4ntixDev on Instagram
 
 
 
